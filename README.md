@@ -3,6 +3,10 @@ PHP Landing Page
 
 A simple, Landing Page Script with integrates MailChimp
 
+# How to use
+
+ Go to project directory and install requirments with php composer, get composer from http://getcomposer.org and run '$ php composer.phar install' , then run yout application ;)
+
 # Instructions
 
 1. to change index page template you can edit 'form.php' file, just place form with post method and email field

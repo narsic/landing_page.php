@@ -1,0 +1,5 @@
+{
+    "require": {
+        "rezzza/mailchimp": "1.3.1"
+    }
+}
