@@ -6,6 +6,7 @@ A simple, Landing Page Script with integrates MailChimp
 # How to use
 
  Go to project directory and install requirments with php composer, get composer from http://getcomposer.org and run '$ php composer.phar install' , then run yout application ;)
+ At the end change configuration file with your details,, configuration file located in './inc/config.php'
 
 # Instructions
 
